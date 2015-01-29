@@ -1,5 +1,7 @@
 @charset "UTF-8";
 
+@import url(http://fonts.googleapis.com/css?family=Lato:400,700);
+
 // ----------------------
 // == Site settings
 // ----------------------
@@ -8,20 +10,18 @@
 $audio-canvas-video: false; // True | False
 
 // Fonts
-$font1: "Helvetica Neue", Helvetica, Arial, sans-serif;
-$font2: Georgia, serif;
+$font1: "Lato", Arial, sans-serif;
+$font2: "Lato", serif;
 
 // = Colors
 // -----------------------------
 
 // Graphic chart
-$red: #df2e30;
-$blue: #1894c4;
 $facebook: #3b5998;
 $twitter: #43bfe1;
 
-$color1: $red;
-$color2: $blue;
+$color1: #0c80c8;
+$color2: #0c80c8;
 
 // Text
 $color-text-base: #212121;
